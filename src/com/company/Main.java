@@ -10,5 +10,7 @@ public class Main {
         int result = a + b;
         System.out.println("result = " + result);
         //add some code
+
+        CosmoShip ship;
     }
 }
