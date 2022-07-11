@@ -11,6 +11,6 @@ public class Main {
         System.out.println("result = " + result);
         //add some code
 
-        CosmoShip ship;//sdsfsdfsdfsdf
+        CosmoShip ship;//sdsfsdfsdfsdf qwerwerwer
     }
 }
